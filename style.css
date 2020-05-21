@@ -1,0 +1,103 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #edaa00;
+}
+.navbar {
+  font-family: "Arial Black", Gadget, sans-seri;
+  font-size: 35px;
+  font-weight: 25px;
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1 {
+  font-style: italic;
+  color: white;
+  font-family: fantasy;
+  font-weight: 25px;
+  font-size: 20px;
+}
+#search {
+  color: purple;
+  font-size: 15px;
+  font-weight: 25px;
+}
+
+h9 {
+  font-style: italic;
+  color: white;
+  font-family: fantasy;
+  font-weight: 25px;
+  font-size: 20px;
+}
+.lead {
+  font-style: italic;
+  color: red;
+  font-family: "Arial Black", Gadget, sans-seri;
+  font-weight: 25px;
+  font-size: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+p {
+  font-style: bold;
+  color: white;
+  font-family: fantasy;
+  font-weight: 25px;
+  font-size: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h5 {
+  font-style: bold;
+  color: red;
+  font-family: fantasy;
+  font-weight: 25px;
+  font-size: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.card-text {
+  font-size: 20px;
+  font-family: "Arial Black", Gadget, sans-seri;
+  font-weight: 25px;
+  color: purple;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.card-title {
+  font-size: 20px;
+  font-family: "Arial Black", Gadget, sans-seri;
+  font-weight: 25px;
+  color: red;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.card-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.bbb {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
